@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Summer 2021 Assignment 10 Solution
+ *  UCF COP3330 Summer 2021 Assignment 11 Solution
  *  Copyright 2021 Julian Espinoza
  *
  *  Exercise 11 - Currency Conversion
